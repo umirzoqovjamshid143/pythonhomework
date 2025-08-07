@@ -36,13 +36,13 @@ if "from" in sozlar:
 
 5. Reverse String Write a Python program that takes a user input string and prints it in reverse order.
 
-user_input = input("hello")
+user_input = "hello"
 reversed_string = user_input[::-1]
 print("Reversed string:", reversed_string)
 
 
 6. Count Vowels Write a Python program that counts the number of vowels in a given string.
-text = input("Salom dunyo" )
+text = "Salom dunyo" 
 vowels = "aeiouAEIOU"
 
 count = 0
